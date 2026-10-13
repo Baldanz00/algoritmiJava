@@ -1,0 +1,1 @@
+/*Traccia: chiedi un numero intero e stampa se è pari o dispari */

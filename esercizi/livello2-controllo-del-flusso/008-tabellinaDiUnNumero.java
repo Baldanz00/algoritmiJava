@@ -1,0 +1,1 @@
+/*Traccia: chiedi un numero e stampa la tabellina da 1 a 10 */
